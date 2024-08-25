@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET framework. I'm also a Web developer and Game Developer.
 
-🤖 Tools I Use
+## 🤖 Tools I Use
 C/C++: I Primarily use C/C++
 C#: I Use this with the .NET framework
 DirectX: I Use this to create ImGui overlays and other stuffs
