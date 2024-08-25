@@ -2,10 +2,10 @@
 I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET framework. I'm also a Web developer and Game Developer.
 
 ## 🤖 Tools I Use
-- C/C++: I Primarily use C/C++.
-- C#: I Use this with the .NET framework.
-- DirectX: I Use this to create ImGui overlays and other stuffs.
-- Game Development: I have experience with various game engines, including UE4, Unity, and Roblox Studio for my game projects.
+- C/C++ : I Primarily use C/C++.
+- C# : I Use this with the .NET framework.
+- DirectX : I Use this to create ImGui overlays and other stuffs.
+- Game Development : I have experience with various game engines, including UE4, Unity, and Roblox Studio for my game projects.
 
 <!--
 **NeoXa7/NeoXa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
