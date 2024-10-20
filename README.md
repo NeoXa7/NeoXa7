@@ -12,10 +12,9 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="50" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Visual Studio" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity Engine" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50"/>
 </p>
 
 - C/C++ : I Primarily use C/C++.
