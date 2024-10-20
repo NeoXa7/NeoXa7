@@ -23,6 +23,10 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 - Game Development : I have experience with various game engines, including UE4, Unity, and Roblox Studio for my game projects.
 - DirectX : I Use this to create ImGui overlays and other stuffs.
 
+## Social Network
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/babablacksheep#4201)
+
+
 <!--
 **NeoXa7/NeoXa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
