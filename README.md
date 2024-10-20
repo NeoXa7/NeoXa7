@@ -20,8 +20,8 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 - C/C++ : I Primarily use C/C++.
 - C# : I Use this with the .NET framework.
 - IDE : Visual Studio 2022
-- DirectX : I Use this to create ImGui overlays and other stuffs.
 - Game Development : I have experience with various game engines, including UE4, Unity, and Roblox Studio for my game projects.
+- DirectX : I Use this to create ImGui overlays and other stuffs.
 
 <!--
 **NeoXa7/NeoXa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
