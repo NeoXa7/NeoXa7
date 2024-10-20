@@ -24,7 +24,9 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 - DirectX : I Use this to create ImGui overlays and other stuffs.
 
 ## Social Network
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/babablacksheep#4201)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/babablacksheep#4201)[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/YOUR_CHANNEL_NAME)
+
+
 
 
 <!--
