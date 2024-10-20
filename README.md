@@ -6,6 +6,7 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 
 
 ## 🤖 Tools I Use
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - C/C++ : I Primarily use C/C++.
 - C# : I Use this with the .NET framework.
 - IDE : Visual Studio 2022
