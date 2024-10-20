@@ -11,7 +11,7 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" alt="C" width="30" height="30"/>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="30" height="30"/>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="30" height="30"/>
-<img src = "https://cdn.iconscout.com/icon/free/png-256/free-lua-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3030037.png?f=webp&w=256" alt="Lua" width="30" height="30"/>
+<img src = "https://img.icons8.com/?size=256w&id=vFFJFfHoOHvj&format=png 1x, https://img.icons8.com/?size=512w&id=vFFJFfHoOHvj&format=png 2x" alt="Lua" width="30" height="30"/>
 </p>
 
 - C/C++ : I Primarily use C/C++.
