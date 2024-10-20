@@ -7,7 +7,7 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 
 ## 🤖 Tools I Use
 <!-- Language and Tool Badges -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40" height="40"/>
 
 - C/C++ : I Primarily use C/C++.
 - C# : I Use this with the .NET framework.
