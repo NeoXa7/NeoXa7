@@ -12,7 +12,7 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="50" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="50" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Visual Studio" width="50" height="50"/>
-<img src="https://www.logo.wine/a/logo/DirectX/DirectX-Logo.wine.svg" alt="Direct X" width="50" height="50" style="filter: invert(1);"/>
+<img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/gamedev/DirectX-Image.png" alt="Direct X" width="50" height="50"/>
 </p>
 
 - C/C++ : I Primarily use C/C++.
