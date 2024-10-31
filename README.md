@@ -15,6 +15,7 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity Engine" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50"/>
 <img src="https://img.icons8.com/?size=256&id=aoRFS7u2O2dm&format=png" alt="Roblox Studio" width="50" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" alt="Premiere Pro" width="50" height="50"/>
 </p>
 
 - C/C++ : I Primarily use C/C++.
