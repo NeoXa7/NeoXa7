@@ -24,6 +24,7 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 - Game Development : I have experience with various game engines, including UE4, Unity, and Roblox Studio for my game projects.
 - Premiere Pro : I use this for video editing purpose (Subscribe to my youtube channel please).
 - DirectX : I Use this to create ImGui overlays and other stuffs.
+- OpenGL C++ : I Use this to create my own custom game engine.
 
 ## Social Network
 - Subscribe to my youtube channel
