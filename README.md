@@ -22,7 +22,7 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 - C# : I Use this with the .NET framework.
 - IDE : Visual Studio 2022
 - Game Development : I have experience with various game engines, including UE4, Unity, and Roblox Studio for my game projects.
-- Premiere Pro : I use this for video editing purpose (Subscribe to my youtube channel please).
+- Premiere Pro : I use this for video editing purpose.
 - DirectX : I Use this to create ImGui overlays and other stuffs.
 - OpenGL C++ : I Use this to create my own custom game engine.
 
