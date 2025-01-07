@@ -13,13 +13,12 @@ I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET f
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="50" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="Visual Studio" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity Engine" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50"/>
 <img src="https://img.icons8.com/?size=256&id=aoRFS7u2O2dm&format=png" alt="Roblox Studio" width="50" height="50"/>
 </p>
 
 - C/C++ : I Primarily use C/C++.
 - C# : I Use this with the .NET framework.
-- IDE : Visual Studio 2022
+- IDE : Visual Studio 2022, CLion.
 - Game Development : I have experience with various game engines, including UE4, Unity, and Roblox Studio for my game projects.
 - DirectX : I Use this to create ImGui overlays and other stuffs.
 - OpenGL C++ : I Use this to create my own custom game engine.
